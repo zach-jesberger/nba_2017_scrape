@@ -23,9 +23,12 @@ nba = east.append(west)
 
 # clean dataframe
 nba['team'] = nba['team'].str.replace('[^a-zA-Z0-9 \n\.]', '').str.replace("[0-9()]+$", "")
-nba = nba.set_index('team')
 nba = nba.sort_values('wins', ascending = False)
-#print(nba)
+nba = nba.reset_index()
+del(nba['index'])
+nba.index += 1
+nba.index.name = 'league_rank'
+print(nba)
 
 # write to csv
-nba.to_csv('nba_2017.csv')
+nba.to_csv('nba_2017.csv') 

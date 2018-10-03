@@ -1,31 +1,31 @@
-team,wins,losses,win_perc,games_back,psg,pag,srs,conference
-Houston Rockets,65,17,0.7929999999999999,—,112.4,103.9,8.21,Western Conference
-Toronto Raptors,59,23,0.72,—,111.7,103.9,7.29,Eastern Conference
-Golden State Warriors,58,24,0.7070000000000001,7.0,113.5,107.5,5.79,Western Conference
-Boston Celtics,55,27,0.6709999999999999,4.0,104.0,100.4,3.23,Eastern Conference
-Philadelphia 76ers,52,30,0.634,7.0,109.8,105.3,4.3,Eastern Conference
-Cleveland Cavaliers,50,32,0.61,9.0,110.9,109.9,0.59,Eastern Conference
-Portland Trail Blazers,49,33,0.598,16.0,105.6,103.0,2.6,Western Conference
-Indiana Pacers,48,34,0.585,11.0,105.6,104.2,1.18,Eastern Conference
-New Orleans Pelicans,48,34,0.585,17.0,111.7,110.4,1.48,Western Conference
-Utah Jazz,48,34,0.585,17.0,104.1,99.8,4.47,Western Conference
-Oklahoma City Thunder,48,34,0.585,17.0,107.9,104.4,3.42,Western Conference
-Minnesota Timberwolves,47,35,0.573,18.0,109.5,107.3,2.35,Western Conference
-San Antonio Spurs,47,35,0.573,18.0,102.7,99.8,2.89,Western Conference
-Denver Nuggets,46,36,0.561,19.0,110.0,108.5,1.57,Western Conference
-Milwaukee Bucks,44,38,0.537,15.0,106.5,106.8,-0.45,Eastern Conference
-Miami Heat,44,38,0.537,15.0,103.4,102.9,0.15,Eastern Conference
-Washington Wizards,43,39,0.524,16.0,106.6,106.0,0.53,Eastern Conference
-Los Angeles Clippers,42,40,0.512,23.0,109.0,109.0,0.15,Western Conference
-Detroit Pistons,39,43,0.47600000000000003,20.0,103.8,103.9,-0.26,Eastern Conference
-Charlotte Hornets,36,46,0.439,23.0,108.2,108.0,0.07,Eastern Conference
-Los Angeles Lakers,35,47,0.42700000000000005,30.0,108.1,109.6,-1.44,Western Conference
-New York Knicks,29,53,0.354,30.0,104.5,108.0,-3.53,Eastern Conference
-Brooklyn Nets,28,54,0.341,31.0,106.6,110.3,-3.67,Eastern Conference
-Chicago Bulls,27,55,0.32899999999999996,32.0,102.9,110.0,-6.84,Eastern Conference
-Sacramento Kings,27,55,0.32899999999999996,38.0,98.8,105.8,-6.6,Western Conference
-Orlando Magic,25,57,0.305,34.0,103.4,108.2,-4.92,Eastern Conference
-Atlanta Hawks,24,58,0.293,35.0,103.4,108.8,-5.3,Eastern Conference
-Dallas Mavericks,24,58,0.293,41.0,102.3,105.4,-2.7,Western Conference
-Memphis Grizzlies,22,60,0.268,43.0,99.3,105.5,-5.81,Western Conference
-Phoenix Suns,21,61,0.256,44.0,103.9,113.3,-8.8,Western Conference
+league_rank,team,wins,losses,win_perc,games_back,psg,pag,srs,conference
+1,Houston Rockets,65,17,0.7929999999999999,—,112.4,103.9,8.21,Western Conference
+2,Toronto Raptors,59,23,0.72,—,111.7,103.9,7.29,Eastern Conference
+3,Golden State Warriors,58,24,0.7070000000000001,7.0,113.5,107.5,5.79,Western Conference
+4,Boston Celtics,55,27,0.6709999999999999,4.0,104.0,100.4,3.23,Eastern Conference
+5,Philadelphia 76ers,52,30,0.634,7.0,109.8,105.3,4.3,Eastern Conference
+6,Cleveland Cavaliers,50,32,0.61,9.0,110.9,109.9,0.59,Eastern Conference
+7,Portland Trail Blazers,49,33,0.598,16.0,105.6,103.0,2.6,Western Conference
+8,Indiana Pacers,48,34,0.585,11.0,105.6,104.2,1.18,Eastern Conference
+9,New Orleans Pelicans,48,34,0.585,17.0,111.7,110.4,1.48,Western Conference
+10,Utah Jazz,48,34,0.585,17.0,104.1,99.8,4.47,Western Conference
+11,Oklahoma City Thunder,48,34,0.585,17.0,107.9,104.4,3.42,Western Conference
+12,Minnesota Timberwolves,47,35,0.573,18.0,109.5,107.3,2.35,Western Conference
+13,San Antonio Spurs,47,35,0.573,18.0,102.7,99.8,2.89,Western Conference
+14,Denver Nuggets,46,36,0.561,19.0,110.0,108.5,1.57,Western Conference
+15,Milwaukee Bucks,44,38,0.537,15.0,106.5,106.8,-0.45,Eastern Conference
+16,Miami Heat,44,38,0.537,15.0,103.4,102.9,0.15,Eastern Conference
+17,Washington Wizards,43,39,0.524,16.0,106.6,106.0,0.53,Eastern Conference
+18,Los Angeles Clippers,42,40,0.512,23.0,109.0,109.0,0.15,Western Conference
+19,Detroit Pistons,39,43,0.47600000000000003,20.0,103.8,103.9,-0.26,Eastern Conference
+20,Charlotte Hornets,36,46,0.439,23.0,108.2,108.0,0.07,Eastern Conference
+21,Los Angeles Lakers,35,47,0.42700000000000005,30.0,108.1,109.6,-1.44,Western Conference
+22,New York Knicks,29,53,0.354,30.0,104.5,108.0,-3.53,Eastern Conference
+23,Brooklyn Nets,28,54,0.341,31.0,106.6,110.3,-3.67,Eastern Conference
+24,Chicago Bulls,27,55,0.32899999999999996,32.0,102.9,110.0,-6.84,Eastern Conference
+25,Sacramento Kings,27,55,0.32899999999999996,38.0,98.8,105.8,-6.6,Western Conference
+26,Orlando Magic,25,57,0.305,34.0,103.4,108.2,-4.92,Eastern Conference
+27,Atlanta Hawks,24,58,0.293,35.0,103.4,108.8,-5.3,Eastern Conference
+28,Dallas Mavericks,24,58,0.293,41.0,102.3,105.4,-2.7,Western Conference
+29,Memphis Grizzlies,22,60,0.268,43.0,99.3,105.5,-5.81,Western Conference
+30,Phoenix Suns,21,61,0.256,44.0,103.9,113.3,-8.8,Western Conference
